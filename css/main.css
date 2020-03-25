@@ -1,11 +1,10 @@
-body {
-  font-family: 'Merriweather', serif;
+html {
+  font-family: "Merriweather", serif;
 }
 
 .event {
   border-radius: 8px;
   border: 1px solid;
-
 }
 
 .event-red {
@@ -30,4 +29,8 @@ body {
   background-color: #d2d6f0;
   border-color: #1d38da;
   color: #38448e;
+}
+
+.day {
+  height:
 }
