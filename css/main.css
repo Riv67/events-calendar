@@ -1,10 +1,11 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 th, td {
   border: 1px solid #ccc;
 }
+
 .event {
   border-radius: 8px;
   border: 1px solid;
@@ -34,6 +35,6 @@ th, td {
   color: #38448e;
 }
 
-.day {
-  height: 6rem;
+.tbody, td {
+  height: 11em;
 }
